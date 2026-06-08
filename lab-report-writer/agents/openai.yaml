@@ -1,0 +1,4 @@
+interface:
+  display_name: "Lab Report Writer"
+  short_description: "Generate a Chinese lab report DOCX from a template, manuals, and result images."
+  default_prompt: "Use $lab-report-writer to complete a Chinese lab report from a Word template, reference PDFs, and result images, and deliver a submission-ready DOCX."

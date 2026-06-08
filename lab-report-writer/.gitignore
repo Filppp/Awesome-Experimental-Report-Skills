@@ -1,0 +1,22 @@
+# OS / editor noise
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Local scratch files
+*.log
+*.tmp
+*.bak
+
+# Packaged or generated documents
+*.docx
+*.pdf
+*.png
+*.jpg
+*.jpeg
