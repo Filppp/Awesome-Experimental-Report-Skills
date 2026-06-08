@@ -59,8 +59,6 @@ git clone https://github.com/<your-name>/lab-report-writer.git <your-skills-dir>
 ```
 
 Examples of target skill directories depend on your Codex setup:
-
-- `D:\codex-data\skills\lab-report-writer`
 - `~/.codex/skills/lab-report-writer`
 
 ### Option 2: Copy The Folder Manually
